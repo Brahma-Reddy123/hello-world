@@ -1,8 +1,1 @@
-# hello-world
-
-Brahmananda Reddy
-
-i am a btech graduate in computer science stream
-I am learning Git and GitHub. This is my first repository!
-
-
+Good morning, my name is Brahmananda Reddy. I am from Vijayawada and I recently graduated in Computer Science. I have done projects involving machine learning, including a phishing website detection project where I used ML algorithms to classify websites as safe or malicious. I am skilled in Python, Java, and Data Structures, and I am eager to apply my problem-solving skills to real-world challenges at your organization.”
